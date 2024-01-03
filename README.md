@@ -6,7 +6,7 @@
 
 在下載完此repo 或者 clone 至本機目錄後，請額外下載ffmpeg並解壓縮至目錄中的ffmpeg資料夾。<br>
 
-    Url: https://ffmpeg.org/download.html
+    Url: [ffmpeg 下載]https://ffmpeg.org/download.html
 
 
 
