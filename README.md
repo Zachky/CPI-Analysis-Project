@@ -1,6 +1,6 @@
 # Python Matplotlib Project -- CPI Analysis Project
 
-![Banner](https://github.com/Zachky/CPI-Analysis-Project/blob/main/Image_Library/matplotlib.jpg?raw=true "Banner")
+![Banner](https://github.com/Zachky/CPI-Analysis-Project/blob/main/Image_Library/matplotlib_banner.jpg?raw=true "Banner")
 
 ## Introduction 
 
@@ -15,6 +15,6 @@
 
 ### * Plot chart with multiple line:
 
-![Plot Chart](https://github.com/Zachky/CPI-Analysis-Project/blob/main/Image_Library/CPI_subcomponents.gif?raw=true "Plot Chart")
+![Plot Chart](https://github.com/Zachky/CPI-Analysis-Project/blob/main/Image_Library/CPI_Subcomponents.gif?raw=true "Plot Chart")
 
 
