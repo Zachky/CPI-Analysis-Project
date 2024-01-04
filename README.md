@@ -17,4 +17,20 @@
 
 ![Plot Chart](https://github.com/Zachky/CPI-Analysis-Project/blob/main/Image_Library/CPI_Subcomponent.gif?raw=true "Plot Chart")
 
+### * Plot chart with color filled :
+
+![Plot chart with color filled](https://github.com/Zachky/CPI-Analysis-Project/blob/main/Image_Library/CPI_AnnualGrowthRate.gif?raw=true "Plot chart with color filled")
+
+### * Pie chart:
+
+![Pie Chart](https://github.com/Zachky/CPI-Analysis-Project/blob/main/Image_Library/CPI_BW_PieChart_Animated.gif?raw=true "Pie Chart")
+
+### * Dount chart:
+
+![Dount Chart](https://github.com/Zachky/CPI-Analysis-Project/blob/main/Image_Library/CPI_BW_DountChart_Animated.gif?raw=true "Dount Chart")
+
+### * Nested Dount chart:
+
+![Nested Dount Chart](https://github.com/Zachky/CPI-Analysis-Project/blob/main/Image_Library/CPI_Basket_Weights_NestDount_Animated.gif?raw=true "Nested Dount Chart")
+
 
