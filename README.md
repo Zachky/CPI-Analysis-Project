@@ -15,6 +15,6 @@
 
 ### * Plot chart with multiple line:
 
-![Plot Chart](https://github.com/Zachky/CPI-Analysis-Project/blob/main/Image_Library/CPI_Subcomponents.gif?raw=true "Plot Chart")
+![Plot Chart](https://github.com/Zachky/CPI-Analysis-Project/blob/main/Image_Library/CPI_Subcomponent.gif?raw=true "Plot Chart")
 
 
